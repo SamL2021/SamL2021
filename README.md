@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamL2021 but you can call me AweSam
 - 👀 I’m interested in contributing to remote teams whilst traveling 
-- 🌱 I’m currently learning all about GitHub and Javascript
+- 🌱 I’m currently learning best practices for responsive sites and Javascript
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 Reach me via email sgd@live.com.au
 
