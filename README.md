@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamL2021 but you can call me AweSam
-- 👀 I’m interested in being part of a fully remote team whilst traveling the world
-- 🌱 I’m currently working on React and improving my Javascript
-- 💞 I'm currently taking part in the nology accenture retraining program https://au.nology.io/accenture-tech-accelerator-program/
+- 🌱 I’m currently working on improving my Javascript, whilst learning more about Java.
+- 💞 I've just taken part in the nology development retraining program and I'm looking for my first tech role.
+- 👀 I’m interested in being part of a fully remote team whilst traveling the world.
 - 📫 Reach me via email sgd@live.com.au
 
 <!---
